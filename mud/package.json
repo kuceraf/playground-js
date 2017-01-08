@@ -1,0 +1,19 @@
+{
+  "name": "mud",
+  "version": "1.0.0",
+  "description": "a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "demo"
+  ],
+  "author": "Filip Kucera",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  }
+}

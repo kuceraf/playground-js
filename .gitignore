@@ -2,4 +2,6 @@
 .gitignore
 .idea/
 mud/node_modules/
+examples/node_modules/
 /mud/lib/
+/examples/app/transpiled/

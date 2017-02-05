@@ -4,4 +4,4 @@
 mud/node_modules/
 examples/node_modules/
 /mud/lib/
-/examples/app/transpiled/
+/examples/transpiled/

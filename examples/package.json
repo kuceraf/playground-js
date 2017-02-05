@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "babel app -d app/transpiled --source-maps",
+    "build": "babel app -d transpiled --source-maps",
     "test": "karma start karma.conf.js",
     "server": "http-server"
   },
